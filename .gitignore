@@ -1,0 +1,8 @@
+#Ingore Env files
+.flaskenv
+venv/
+__pycache__/
+flaskblog/__pycache
+flaskblog/static/profile_pics/*.jpg
+flaskblog/static/profile_pics/*.png
+flaskblog/site.db
