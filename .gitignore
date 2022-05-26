@@ -1,4 +1,5 @@
 #Ingore Env files
+.DS_Store
 .flaskenv
 venv/
 __pycache__/
